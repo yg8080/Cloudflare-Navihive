@@ -17,12 +17,12 @@
     "d1_databases": [
         {
             "binding": "DB",
-            "database_name": "navigation-db-local",
+            "database_name": "navigation-db",
             "database_id": "115ee4d1-3b3a-4d09-a735-6cfdd1e0ba73"
         }
     ],
     "vars": {
-        "AUTH_ENABLED": "falsee",
+        "AUTH_ENABLED": "true",
         "AUTH_REQUIRED_FOR_READ": "falsee",
         "AUTH_USERNAME": "admin",
         "AUTH_PASSWORD": "112553",
